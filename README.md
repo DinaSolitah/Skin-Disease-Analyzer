@@ -3,9 +3,7 @@
 
 Live Web App: https://skindiseaseanalyzer.000webhostapp.com/
 
-<br>
 
-<img src="https://skindiseaseanalyzer.000webhostapp.com/assets/robotfavicon.png" width="350"></img>
 
 <br>
 
